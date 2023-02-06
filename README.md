@@ -6,7 +6,7 @@
 
 ## Links and images
 
-[This sites Home](https://github.com/clivinghouse-psu-ist-256/Self-Bio-Wikipedia)
+[This sites Home](https://clivinghouse-psu-ist-256.github.io/Self-Bio-Wikipedia/)
 
 here is an image
 
